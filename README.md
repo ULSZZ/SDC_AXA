@@ -1,2 +1,2 @@
-# SDC_AXA
-SDC Study Case Project at AXA in 2025
+# Premium_Optimatization_at_AXA_Insurance_Study_Case_2025
+
